@@ -1,0 +1,60 @@
+# Archivo .gitignore para proyectos .NET (C#)
+
+##################################
+# Visual Studio / IDE (General)
+##################################
+*.VC.db
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsp
+*.vspscc
+*.vscache
+*.build.error
+*.jfm
+
+# Directorios de compilación (Generados automáticamente)
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+
+# Archivos de configuración de Visual Studio
+*.opensdf
+*.docstates
+vs.log
+
+##################################
+# Paquetes y Dependencias (NuGet/npm/etc.)
+##################################
+# Paquetes NuGet
+*.nupkg
+# Directorios de paquetes
+# Evita rastrear la carpeta de paquetes restaurados
+packages/
+
+# Archivos de bloqueo de paquetes (Solo .NET Framework clásico)
+# Si usas .NET Core/5+, no suelen ser necesarios
+# project.lock.json
+
+# Carpeta de restauración de herramientas
+.tools/
+
+##################################
+# Bases de Datos (Específico del Proyecto)
+##################################
+# Ignorar el archivo de base de datos SQLite generado localmente
+# Usamos 'TareasDB.sqlite' en nuestra capa de Infraestructura
+TareasDB.sqlite
+*.db-shm
+*.db-wal
+
+##################################
+# Visual Studio Code (VS Code)
+##################################
+.vscode/*
+# Pero NO ignorar el archivo settings.json (útil para la configuración de desarrollo)
+!**/settings.json

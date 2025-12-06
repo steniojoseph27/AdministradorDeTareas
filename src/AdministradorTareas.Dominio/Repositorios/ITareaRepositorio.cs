@@ -1,3 +1,7 @@
+using System;
+using AdministradorTareas.Dominio.Entidades;
+using System.Collections.Generic;
+
 namespace AdministradorTareas.Dominio.Repositorios
 {
     // Interfaz que define las operaciones CRUD y de consulta.

@@ -1,3 +1,6 @@
+using System;
+using AdministradorTareas.Dominio.Enums;
+
 namespace AdministradorTareas.Dominio.Entidades
 {
     public class Tarea

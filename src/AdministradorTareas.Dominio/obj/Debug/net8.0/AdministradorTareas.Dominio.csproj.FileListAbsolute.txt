@@ -1,0 +1,5 @@
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/AdministradorTareas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/AdministradorTareas.Dominio.AssemblyInfoInputs.cache
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/AdministradorTareas.Dominio.AssemblyInfo.cs
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/AdministradorTareas.Dominio.csproj.CoreCompileInputs.cache
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/AdministradorTareas.Dominio.sourcelink.json
