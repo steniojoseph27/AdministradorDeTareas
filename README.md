@@ -1,22 +1,22 @@
 # 📋 Administrador de Tareas
 
 ## 📄 Descripción
-Aplicación de escritorio desarrollada en C# y WinForms para la administración de tareas sencillas. El proyecto está diseñado con una arquitectura de capas clara, siguiendo patrones de diseño básicos y principios de código limpio, acorde a los estándares de un desarrollador Senior[cite: 15, 18].
+Aplicación de escritorio desarrollada en C# y WinForms para la administración de tareas sencillas. El proyecto está diseñado con una arquitectura de capas clara, siguiendo patrones de diseño básicos y principios de código limpio, acorde a los estándares de un desarrollador Senior.
 
 ## ✨ Características Principales
-* **CRUD** (Crear, Ver, Editar, Eliminar) de tareas[cite: 2].
-* Visualización tabular con **ordenamiento por Fecha de Compromiso** y **filtros**[cite: 6, 7].
-* Flujo de estados: **PENDIENTE > EN PROCESO > TERMINADA**[cite: 7].
+* **CRUD** (Crear, Ver, Editar, Eliminar) de tareas.
+* Visualización tabular con **ordenamiento por Fecha de Compromiso** y **filtros**.
+* Flujo de estados: **PENDIENTE > EN PROCESO > TERMINADA**.
 * Reglas de edición/eliminación específicas:
-    * **Editar:** Solo tareas en estado PENDIENTE[cite: 7].
-    * **Eliminar:** Tareas que NO estén en estado EN PROCESO[cite: 8].
+    * **Editar:** Solo tareas en estado PENDIENTE.
+    * **Eliminar:** Tareas que NO estén en estado EN PROCESO.
 
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje:** C# (.NET Framework / .NET Core)
 * **Interfaz:** WinForms
 * **Base de Datos (Inicial):** SQLite (Uso de **Dapper** para acceso a datos) 
 * **Arquitectura:** En capas (e.g., Presentación, Negocio, Datos) 
-* **Patrones:** Se utilizarán patrones como **Repository** y **Unit of Work** para facilitar la migración a Entity Framework[cite: 11, 12].
+* **Patrones:** Se utilizarán patrones como **Repository** y **Unit of Work** para facilitar la migración a Entity Framework.
 
 ## ⚙️ Configuración del Entorno y Ejecución
 1.  **Requisitos:** Tener instalado Visual Studio (2019 o superior) y el SDK de .NET.
