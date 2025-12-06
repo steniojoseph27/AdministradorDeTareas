@@ -3,3 +3,14 @@
 /home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/AdministradorTareas.Infraestructura.AssemblyInfo.cs
 /home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/AdministradorTareas.Infraestructura.csproj.CoreCompileInputs.cache
 /home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/AdministradorTareas.Infraestructura.sourcelink.json
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/AdministradorTareas.Infraestructura.csproj.AssemblyReference.cache
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/bin/Debug/net8.0/AdministradorTareas.Infraestructura.deps.json
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/bin/Debug/net8.0/AdministradorTareas.Infraestructura.dll
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/bin/Debug/net8.0/AdministradorTareas.Infraestructura.pdb
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/bin/Debug/net8.0/AdministradorTareas.Dominio.dll
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/bin/Debug/net8.0/AdministradorTareas.Dominio.pdb
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/Administ.43D1A4F8.Up2Date
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/AdministradorTareas.Infraestructura.dll
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/refint/AdministradorTareas.Infraestructura.dll
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/AdministradorTareas.Infraestructura.pdb
+/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/obj/Debug/net8.0/ref/AdministradorTareas.Infraestructura.dll
