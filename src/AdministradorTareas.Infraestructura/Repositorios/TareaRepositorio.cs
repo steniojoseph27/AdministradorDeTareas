@@ -16,7 +16,7 @@ namespace AdministradorTareas.Infraestructura.Repositorios
             "SELECT Id, Descripcion, Usuario, Estado, Prioridad, FechaCompromiso, Notas FROM Tareas";
 
         // Implementación de ObtenerTodas
-        public IEnumerable<Tarea> ObtenerTodas(string filtro = null)
+        public IEnumerable<Tarea> ObtenerTodas(string? filtro = null)
         {
             using (var connection = GetConnection())
             {
@@ -27,7 +27,7 @@ namespace AdministradorTareas.Infraestructura.Repositorios
         }
 
         // Implementación de ObtenerPorId
-        public Tarea ObtenerPorId(int id)
+        public Tarea? ObtenerPorId(int id)
         {
             using (var connection = GetConnection())
             {
