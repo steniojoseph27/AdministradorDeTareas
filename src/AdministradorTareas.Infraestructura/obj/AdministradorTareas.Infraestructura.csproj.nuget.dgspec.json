@@ -109,9 +109,9 @@
               "target": "Package",
               "version": "[2.1.66, )"
             },
-            "System.Data.SQLite": {
+            "Microsoft.Data.SQLite": {
               "target": "Package",
-              "version": "[2.0.2, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

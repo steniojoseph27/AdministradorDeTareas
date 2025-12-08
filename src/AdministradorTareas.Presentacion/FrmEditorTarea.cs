@@ -27,10 +27,6 @@ namespace AdministradorTareas.Presentacion
             InicializarControles();
             CargarDatos();
         }
-        
-        // ...
-        // Fragmento de src/AdministradorTareas.Presentacion/FrmEditorTarea.cs (Continuación)
-
         private void InicializarControles()
         {
             this.Text = _tareaId.HasValue ? "Editar Tarea" : "Crear Nueva Tarea";
@@ -45,7 +41,6 @@ namespace AdministradorTareas.Presentacion
         {
             if (_tareaId.HasValue)
             {
-                // MODO EDICIÓN
                 _tareaActual = _tareaServicio.ObtenerTareaPorId(_tareaId.Value);
 
                 if (_tareaActual == null)
@@ -55,11 +50,10 @@ namespace AdministradorTareas.Presentacion
                     return;
                 }
 
-                // VALIDACIÓN DE REGLA DE NEGOCIO: SOLO PENDIENTES
                 if (!_tareaActual.EsEditable)
                 {
                     MessageBox.Show("Esta tarea no se puede editar porque no está en estado PENDIENTE.", "Restricción de Negocio", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    this.Close(); // Cerrar el formulario si no es editable
+                    this.Close(); 
                     return;
                 }
                 
@@ -72,9 +66,8 @@ namespace AdministradorTareas.Presentacion
             }
             else
             {
-                // MODO CREACIÓN
                 _tareaActual = new Tarea();
-                cmbPrioridad.EditValue = PrioridadTarea.Media; // Valor por defecto
+                cmbPrioridad.EditValue = PrioridadTarea.Media;
                 dtFechaCompromiso.EditValue = DateTime.Today;
             }
         }

@@ -1,6 +1,6 @@
 using System;
 using System.Data;
-using System.Data.SQLite;
+using Microsoft.Data.Sqlite;
 using System.IO;
 using Dapper;
 
@@ -10,6 +10,8 @@ namespace AdministradorTareas.Infraestructura.Repositorios
     {
         private readonly string _connectionString;
         private readonly string _dbFilePath = "TareasDB.sqlite";
+
+        // Constructor protegido para inicializar la conexión
         protected SqliteBaseRepositorio()
         {
             _connectionString = $"Data Source={_dbFilePath};Version=3;";
@@ -20,7 +22,7 @@ namespace AdministradorTareas.Infraestructura.Repositorios
         // Método para obtener una conexión abierta
         protected IDbConnection GetConnection()
         {
-            var connection = new SQLiteConnection(_connectionString);
+            var connection = new SqliteConnection(_connectionString);
             connection.Open();
             return connection;
         }
@@ -29,9 +31,6 @@ namespace AdministradorTareas.Infraestructura.Repositorios
         {
             if (!File.Exists(_dbFilePath))
             {
-                SQLiteConnection.CreateFile(_dbFilePath);
-                
-                // Usamos Dapper para ejecutar el script de creación de tabla
                 using (var connection = GetConnection())
                 {
                     // Script SQL para crear la tabla Tareas

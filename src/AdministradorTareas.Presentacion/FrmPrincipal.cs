@@ -1,5 +1,3 @@
-// Archivo: src/AdministradorTareas.Presentacion/FrmPrincipal.cs
-
 using AdministradorTareas.Dominio.Servicios;
 using System.Windows.Forms;
 
