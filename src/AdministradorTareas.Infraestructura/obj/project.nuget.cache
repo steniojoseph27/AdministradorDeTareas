@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "avots+trFsE=",
+  "dgSpecHash": "jojwGrw2pQ0=",
   "success": true,
-  "projectFilePath": "/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Infraestructura/AdministradorTareas.Infraestructura.csproj",
+  "projectFilePath": "C:\\Users\\steni\\Documents\\AdministradorDeTareas\\src\\AdministradorTareas.Infraestructura\\AdministradorTareas.Infraestructura.csproj",
   "expectedPackageFiles": [
-    "/home/steniojoseph/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
-    "/home/steniojoseph/.nuget/packages/microsoft.data.sqlite/8.0.0/microsoft.data.sqlite.8.0.0.nupkg.sha512",
-    "/home/steniojoseph/.nuget/packages/microsoft.data.sqlite.core/8.0.0/microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
-    "/home/steniojoseph/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
-    "/home/steniojoseph/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
-    "/home/steniojoseph/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
-    "/home/steniojoseph/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
-    "/home/steniojoseph/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\steni\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\steni\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",
+    "C:\\Users\\steni\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\steni\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\steni\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\steni\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\steni\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\steni\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

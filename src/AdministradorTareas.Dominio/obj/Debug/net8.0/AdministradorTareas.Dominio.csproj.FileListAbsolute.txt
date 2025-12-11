@@ -10,3 +10,15 @@
 /home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/refint/AdministradorTareas.Dominio.dll
 /home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/AdministradorTareas.Dominio.pdb
 /home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/Debug/net8.0/ref/AdministradorTareas.Dominio.dll
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\bin\Debug\net8.0\AdministradorTareas.Dominio.deps.json
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\bin\Debug\net8.0\AdministradorTareas.Dominio.dll
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\bin\Debug\net8.0\AdministradorTareas.Dominio.pdb
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\AdministradorTareas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\AdministradorTareas.Dominio.AssemblyInfoInputs.cache
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\AdministradorTareas.Dominio.AssemblyInfo.cs
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\AdministradorTareas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\AdministradorTareas.Dominio.sourcelink.json
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\AdministradorTareas.Dominio.dll
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\refint\AdministradorTareas.Dominio.dll
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\AdministradorTareas.Dominio.pdb
+C:\Users\steni\Documents\AdministradorDeTareas\src\AdministradorTareas.Dominio\obj\Debug\net8.0\ref\AdministradorTareas.Dominio.dll

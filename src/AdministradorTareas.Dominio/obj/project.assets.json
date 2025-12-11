@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/steniojoseph/.nuget/packages/": {}
+    "C:\\Users\\steni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/AdministradorTareas.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\steni\\Documents\\AdministradorDeTareas\\src\\AdministradorTareas.Dominio\\AdministradorTareas.Dominio.csproj",
       "projectName": "AdministradorTareas.Dominio",
-      "projectPath": "/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/AdministradorTareas.Dominio.csproj",
-      "packagesPath": "/home/steniojoseph/.nuget/packages/",
-      "outputPath": "/home/steniojoseph/source/repos/AdministradorDeTareas/src/AdministradorTareas.Dominio/obj/",
+      "projectPath": "C:\\Users\\steni\\Documents\\AdministradorDeTareas\\src\\AdministradorTareas.Dominio\\AdministradorTareas.Dominio.csproj",
+      "packagesPath": "C:\\Users\\steni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\steni\\Documents\\AdministradorDeTareas\\src\\AdministradorTareas.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/steniojoseph/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\steni\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
